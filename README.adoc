@@ -1,0 +1,11 @@
+= wch-ch32
+
+HAL and register definitions for the WCH CH32Vxxx series of MCUs
+
+= What version of Zig to use
+
+0.11.0
+
+== Supported devices ==
+
+Work in progress!
